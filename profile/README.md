@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.pinea.be/en">
-    <img src="https://www.pinea.be/logo-email-white.png" alt="Pinea" width="180">
+    <img src="https://www.pinea.be/logo-nav.png" alt="Pinea" width="180">
   </a>
 </p>
 
