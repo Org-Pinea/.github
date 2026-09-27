@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.pinea.be/en">
-    <img src="https://www.pinea.be/logo.png" alt="Pinea" width="180">
+    <img src="https://www.pinea.be/logo-email-white.png" alt="Pinea" width="180">
   </a>
 </p>
 
@@ -60,9 +60,6 @@ customer account area, internal dashboard and business API.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
-
-Our main platform repository is
-[`Org-Pinea/V2_site`](https://github.com/Org-Pinea/V2_site).
 
 ## Contributing
 
